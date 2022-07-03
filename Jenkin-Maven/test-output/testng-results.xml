@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-31T20:42:25 IST" name="Default suite" finished-at="2022-05-31T20:42:42 IST" duration-ms="17067">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T20:42:25 IST" name="Default test" finished-at="2022-05-31T20:42:42 IST" duration-ms="17067">
+      <class name="GaadiBazaar.SearchByBudget">
+        <test-method signature="searchGaadiBybudget()[pri:0, instance:GaadiBazaar.SearchByBudget@1534f01b]" started-at="2022-05-31T20:42:25 IST" name="searchGaadiBybudget" finished-at="2022-05-31T20:42:42 IST" duration-ms="17029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGaadiBybudget -->
+      </class> <!-- GaadiBazaar.SearchByBudget -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
