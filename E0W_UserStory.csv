@@ -1,0 +1,14 @@
+﻿Component,Epic,User Story,Story points,Assigned to,Priority
+EoWFreeAdPosting,Log In,"As a user, I want to enter phone number, so that an OTP could be sent for verification.",6,aparnascifi@gmail.com,Very High
+EoWFreeAdPosting,Log In,"As a user, I must enter OTP, so that I can log into EoW Website for selling an old product",4,aparnascifi@gmail.com,Very High
+EoWFreeAdPosting,Ad posting,"As a user, I must enter a title for my ad",2,aparnascifi@gmail.com,Medium
+EoWFreeAdPosting,Ad posting,"As a user, I must enter the category of my product",6,aparnascifi@gmail.com,High
+EoWFreeAdPosting,Ad posting,"As a user, I must enter Price quoted for my product",4,aparnascifi@gmail.com,High
+EoWFreeAdPosting,Ad posting,"As a user, I must enter product description like brand,h/w,s/w specs",8,aparnascifi@gmail.com,High
+EoWFreeAdPosting,Ad posting,"As a user, I must enter Upload atleast a photo of product.",2,aparnascifi@gmail.com,Medium
+EoWFreeAdPosting,Ad posting,"As a user, I must enter my name",2,aparnascifi@gmail.com,Low
+EoWFreeAdPosting,Ad posting,"As a user, I must enter my phone number, so that interested buyers can contact me,",4,aparnascifi@gmail.com,Very High
+EoWFreeAdPosting,Ad posting,"As a user, I must enter the city I live in.",6,aparnascifi@gmail.com,Medium
+EoWFreeAdPosting,Ad posting,"As a user, I must enter the locality of my residence",2,aparnascifi@gmail.com,Low
+EoWFreeAdPosting,Ad posting,"As a user, I must submit all details of my product so that my product gets validated by the site.",10,aparnascifi@gmail.com,Very High
+EoWFreeAdPosting,Ad posting,"As a user, I must enter the verification code, so that I can complete posting the ad",4,aparnascifi@gmail.com,Very High
